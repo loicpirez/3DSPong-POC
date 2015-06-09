@@ -16,4 +16,4 @@ Show the user input in the low screen, and move two bar in the up screen.
 Credits
 --------------
 Co-developped with an IT classmate.
-Developpement tools by devKitPro and users on GBATemp. (Sorry, don't remember which ones, but not mine.)# Pongfor3DS
+Developpement tools by devKitPro and users on GBATemp. (Sorry, don't remember which ones, but not mine.)
