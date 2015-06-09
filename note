@@ -1,0 +1,1 @@
+Makefile returns 1 because of test. (make all will compile fichier .3ds et .cia inside out)
